@@ -1,0 +1,59 @@
+body {
+background-color: #fff8ee;
+font-family: Georgia, serif;
+}
+
+h1 {
+color: #7b1e1e;
+font-size: 50px;
+}
+
+h2 {
+color: #b8860b;
+}
+
+label {
+font-weight: bold;
+}
+
+header {
+padding: 30px;
+}
+
+
+
+
+section {
+padding: 20px;
+}
+
+fieldset {
+border: 2px solid #b8860b;
+padding: 20px;
+}
+
+legend {
+float: none;
+width: auto;
+font-size: 20px;
+color: #7b1e1e;
+}
+
+.btn {
+margin: 5px;
+}
+
+footer {
+padding: 15px;
+}
+
+.hero {
+background-image: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("../image/accueil.webp");
+background-size: cover;
+background-position: center;
+padding: 120px 20px;
+}
+
+.hero h1 {
+color: white;
+}
